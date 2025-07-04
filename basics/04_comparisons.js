@@ -1,0 +1,10 @@
+console.log(2>1);
+console.log("2" < 1);
+console.log("2" >1);
+console.log(1==1);
+console.log("1" == 1);
+console.log(null == 0);
+console.log(null > 0 );
+console.log(null <= 0) ;
+const arr = [1, 2, 3];
+console.log(typeof arr);
